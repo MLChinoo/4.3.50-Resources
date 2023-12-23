@@ -1,0 +1,1127 @@
+[
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    90.0,
+                    180.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    50.0,
+                    5.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_03_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_25_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetX": 0.001484000007621944,
+        "endDialogIconOffsetY": 0.06888899952173233,
+        "endDialogIconScale": 0.6693059802055359,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
+        "levelId": 1,
+        "levelName": 1270069152,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 2,
+        "stageId": 1,
+        "watcherId": 12010601
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    90.0,
+                    180.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    30.0,
+                    5.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_02_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_21_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetX": 0.0056940000504255295,
+        "endDialogIconOffsetY": 0.0182499997317791,
+        "endDialogIconScale": 0.6379169821739197,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
+        "levelId": 2,
+        "levelName": 1399174272,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 2,
+        "stageId": 1,
+        "watcherId": 12010602
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    50.0,
+                    5.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    30.0,
+                    0.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_01_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_20_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetX": 0.00684700021520257,
+        "endDialogIconOffsetY": -0.016194000840187073,
+        "endDialogIconScale": 0.6419439911842346,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
+        "levelId": 3,
+        "levelName": 1627081888,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 2,
+        "stageId": 1,
+        "watcherId": 12010603
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    180.0,
+                    10.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    341.0,
+                    271.0,
+                    278.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_17_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_27_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 11
+            },
+            {
+                "correctPose": [
+                    -0.3100000023841858,
+                    -0.14000000059604645,
+                    0.6899999976158142,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [],
+                "initialPose": [
+                    0.20000000298023224,
+                    -0.14000000059604645,
+                    1.100000023841858,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "motionType": "SINGLE_AXIS_TRANSLATION",
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_18_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_26_Vo",
+                "singleAxisMotionAxis": [
+                    1.0,
+                    0.0,
+                    0.800000011920929
+                ],
+                "singleAxisMotionLimit": [
+                    -0.10000000149011612,
+                    0.6700000166893005
+                ],
+                "singleAxisMotionTolerance": 0.10000000149011612,
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetY": 0.06777799874544144,
+        "endDialogIconScale": 0.5243890285491943,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 2
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
+        "levelId": 4,
+        "levelName": 2254330752,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 1,
+        "stageId": 2,
+        "watcherId": 12010604
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.5,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    30.0,
+                    10.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.5,
+                    0.0,
+                    0.0,
+                    0.0,
+                    90.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_16_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_29_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 11
+            },
+            {
+                "correctPose": [
+                    0.0,
+                    -1.0,
+                    0.3199999928474426,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [],
+                "initialPose": [
+                    0.0,
+                    -1.0,
+                    0.3199999928474426,
+                    90.0,
+                    0.0,
+                    0.0
+                ],
+                "motionType": "SINGLE_AXIS_ROTATION",
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_15_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_28_Vo",
+                "singleAxisMotionAxis": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "singleAxisMotionLimit": [],
+                "singleAxisMotionTolerance": 10.0,
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetY": 0.044833000749349594,
+        "endDialogIconScale": 0.5929170250892639,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 2
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
+        "levelId": 5,
+        "levelName": 532233104,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 1,
+        "stageId": 2,
+        "watcherId": 12010605
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    180.0,
+                    10.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    16.0,
+                    22.0,
+                    81.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_14_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_30_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 11
+            },
+            {
+                "correctPose": [
+                    -0.4099999964237213,
+                    0.6800000071525574,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    10.0,
+                    10.0
+                ],
+                "initialPose": [
+                    -0.4099999964237213,
+                    0.6800000071525574,
+                    0.0,
+                    81.0,
+                    2.0,
+                    162.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_13_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_31_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetY": 0.05041699856519699,
+        "endDialogIconScale": 0.5694440007209778,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 2
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06s",
+        "levelId": 6,
+        "levelName": 1775689848,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [],
+        "rootPointSingleAxisRotationAxis": [],
+        "rootPointSingleAxisRotationLimit": [],
+        "sceneSuiteId": 1,
+        "stageId": 2,
+        "watcherId": 12010606
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    -0.20000000298023224,
+                    1.0,
+                    0.46000000834465027,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    25.0,
+                    25.0
+                ],
+                "initialPose": [
+                    -0.20000000298023224,
+                    1.0,
+                    0.46000000834465027,
+                    45.0,
+                    277.0,
+                    137.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_10_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_34_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 1
+            },
+            {
+                "correctPose": [
+                    0.20000000298023224,
+                    -1.0,
+                    -0.46000000834465027,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    25.0,
+                    20.0
+                ],
+                "initialPose": [
+                    0.20000000298023224,
+                    -1.0,
+                    -0.46000000834465027,
+                    328.0,
+                    74.0,
+                    57.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_12_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_35_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetX": -0.0017969999462366104,
+        "endDialogIconOffsetY": 0.03513899818062782,
+        "endDialogIconScale": 0.6648610234260559,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
+        "levelId": 7,
+        "levelName": 3747915856,
+        "rootPointCorrectPose": [
+            -0.20000000298023224,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [
+            -0.20000000298023224,
+            0.0,
+            0.0,
+            90.0,
+            90.0,
+            0.0
+        ],
+        "rootPointMotionType": "SINGLE_AXIS_ROTATION",
+        "rootPointSingleAxisRotationAxis": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "rootPointSingleAxisRotationLimit": [
+            -90.0,
+            90.0
+        ],
+        "rootPointSingleAxisRotationTolerance": 20.0,
+        "rootPointSwitchButtonConfigId": 11,
+        "sceneSuiteId": 3,
+        "stageId": 3,
+        "watcherId": 12010608
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    0.20999999344348907,
+                    -1.0,
+                    -0.11999999731779099,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    35.0,
+                    20.0
+                ],
+                "initialPose": [
+                    0.20999999344348907,
+                    -1.0,
+                    -0.11999999731779099,
+                    284.0,
+                    166.0,
+                    63.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_07_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_33_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 1
+            },
+            {
+                "correctPose": [
+                    -0.20999999344348907,
+                    1.0,
+                    0.11999999731779099,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    35.0,
+                    20.0
+                ],
+                "initialPose": [
+                    -0.20999999344348907,
+                    1.0,
+                    0.11999999731779099,
+                    326.0,
+                    322.0,
+                    220.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_08_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_32_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [],
+                "freeRotationTolerance": [],
+                "initialPose": [],
+                "prefabPath": "",
+                "shadowPrefabPath": "",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": []
+            }
+        ],
+        "endDialogIconOffsetX": 0.01916700042784214,
+        "endDialogIconOffsetY": 0.019443999975919724,
+        "endDialogIconScale": 0.535971999168396,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
+        "levelId": 8,
+        "levelName": 1322719296,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            90.0,
+            0.0
+        ],
+        "rootPointMotionType": "SINGLE_AXIS_ROTATION",
+        "rootPointSingleAxisRotationAxis": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "rootPointSingleAxisRotationLimit": [
+            -90.0,
+            90.0
+        ],
+        "rootPointSingleAxisRotationTolerance": 20.0,
+        "rootPointSwitchButtonConfigId": 11,
+        "sceneSuiteId": 3,
+        "stageId": 3,
+        "watcherId": 12010607
+    },
+    {
+        "elementConfigs": [
+            {
+                "correctPose": [
+                    -0.1899999976158142,
+                    -1.1399999856948853,
+                    -0.6000000238418579,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    40.0,
+                    20.0
+                ],
+                "initialPose": [
+                    -0.1899999976158142,
+                    -1.1399999856948853,
+                    -0.6000000238418579,
+                    28.0,
+                    315.0,
+                    135.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_04_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_36_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 1
+            },
+            {
+                "correctPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    40.0,
+                    20.0
+                ],
+                "initialPose": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    350.0,
+                    310.0,
+                    321.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_05_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_37_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 2
+            },
+            {
+                "correctPose": [
+                    0.18000000715255737,
+                    1.059999942779541,
+                    0.5600000023841858,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "freeRotationTolerance": [
+                    20.0,
+                    20.0
+                ],
+                "initialPose": [
+                    0.18000000715255737,
+                    1.059999942779541,
+                    0.5600000023841858,
+                    9.0,
+                    338.0,
+                    359.0
+                ],
+                "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_06_Vo",
+                "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_38_Vo",
+                "singleAxisMotionAxis": [],
+                "singleAxisMotionLimit": [],
+                "switchButtonConfigId": 3
+            }
+        ],
+        "endDialogIconOffsetX": -0.09255599975585938,
+        "endDialogIconOffsetY": 0.05000000074505806,
+        "endDialogIconScale": 0.6124439835548401,
+        "hierarchy": [
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            },
+            {
+                "data": {
+                    "append": {},
+                    "clear": {},
+                    "copy": {},
+                    "count": {},
+                    "extend": {},
+                    "index": {},
+                    "insert": {},
+                    "pop": {},
+                    "remove": {},
+                    "reverse": {},
+                    "sort": {}
+                },
+                "length": 0
+            }
+        ],
+        "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
+        "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
+        "levelId": 9,
+        "levelName": 4258426304,
+        "rootPointCorrectPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            180.0,
+            0.0
+        ],
+        "rootPointFreeRotationTolerance": [],
+        "rootPointInitialPose": [
+            0.0,
+            0.0,
+            0.0,
+            90.0,
+            270.0,
+            0.0
+        ],
+        "rootPointMotionType": "SINGLE_AXIS_ROTATION",
+        "rootPointSingleAxisRotationAxis": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "rootPointSingleAxisRotationLimit": [
+            -90.0,
+            90.0
+        ],
+        "rootPointSingleAxisRotationTolerance": 20.0,
+        "rootPointSwitchButtonConfigId": 11,
+        "sceneSuiteId": 3,
+        "stageId": 3,
+        "watcherId": 12010609
+    }
+]

@@ -1,0 +1,5434 @@
+[
+    {
+        "cgDes": 1405667876,
+        "cgName": 5266370,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101401,
+        "id": 10140101,
+        "showImageHashPre": -64,
+        "showImageHashSuffix": 34431323527547372,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 63425807682389006,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10140103,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140191
+    },
+    {
+        "cgDes": 1914439500,
+        "cgName": 6082054,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101401,
+        "id": 10140102,
+        "showImageHashPre": -57,
+        "showImageHashSuffix": 48798486543493769,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 47624352836806696,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10140113,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140192
+    },
+    {
+        "cgDes": 2861249292,
+        "cgName": 18649759,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101401,
+        "id": 10140103,
+        "showImageHashPre": -48,
+        "showImageHashSuffix": 28260053489454818,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 3198601652287595,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10140114,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140193
+    },
+    {
+        "cgDes": 1780451332,
+        "cgName": 19573116,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101401,
+        "id": 10140104,
+        "showImageHashPre": -5,
+        "showImageHashSuffix": 6838143927450178,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 58549833514137172,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10140116,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140194
+    },
+    {
+        "cgDes": 3846371420,
+        "cgName": 29878184,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101401,
+        "id": 10140105,
+        "showImageHashPre": -80,
+        "showImageHashSuffix": 22740562065191567,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 1008444987482537,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10140119,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140195
+    },
+    {
+        "cgDes": 3122578500,
+        "cgName": 33120129,
+        "cgType": "CG_MALE",
+        "chapterId": 101401,
+        "id": 10140111,
+        "showImageHashPre": -104,
+        "showImageHashSuffix": 11603679678845792,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 30170558052237333,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10140103,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140191
+    },
+    {
+        "cgDes": 2108384156,
+        "cgName": 31117218,
+        "cgType": "CG_MALE",
+        "chapterId": 101401,
+        "id": 10140112,
+        "showImageHashPre": -31,
+        "showImageHashSuffix": 31823047814949187,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 49770960490098265,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10140113,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140192
+    },
+    {
+        "cgDes": 4123576852,
+        "cgName": 33043779,
+        "cgType": "CG_MALE",
+        "chapterId": 101401,
+        "id": 10140113,
+        "showImageHashPre": -3,
+        "showImageHashSuffix": 19220496371204916,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 35978153996949574,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10140114,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140193
+    },
+    {
+        "cgDes": 4180193668,
+        "cgName": 4773964,
+        "cgType": "CG_MALE",
+        "chapterId": 101401,
+        "id": 10140114,
+        "showImageHashPre": -27,
+        "showImageHashSuffix": 47690251900483192,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 69649965675802190,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10140116,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140194
+    },
+    {
+        "cgDes": 1742528996,
+        "cgName": 6347694,
+        "cgType": "CG_MALE",
+        "chapterId": 101401,
+        "id": 10140115,
+        "showImageHashPre": -30,
+        "showImageHashSuffix": 15306341493714160,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 446687109743548,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10140119,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10140195
+    },
+    {
+        "cgDes": 1619287220,
+        "cgName": 16118223,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360101,
+        "showImageHashPre": -3,
+        "showImageHashSuffix": 66442004984894450,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 23040034869442203,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10360104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360191
+    },
+    {
+        "cgDes": 1561671340,
+        "cgName": 22586616,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360102,
+        "showImageHashPre": -90,
+        "showImageHashSuffix": 65680665414997910,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 14620929928696087,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10360108,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360192
+    },
+    {
+        "cgDes": 3569952908,
+        "cgName": 31316860,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360103,
+        "showImageHashPre": -45,
+        "showImageHashSuffix": 47762879783428239,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 55966808610721610,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10360119,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360193
+    },
+    {
+        "cgDes": 940007532,
+        "cgName": 28892605,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360104,
+        "showImageHashPre": -99,
+        "showImageHashSuffix": 62517648642988450,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 32917021701403522,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10360109,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360195
+    },
+    {
+        "cgDes": 3287550308,
+        "cgName": 33450978,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360105,
+        "showImageHashPre": -81,
+        "showImageHashSuffix": 30310369792812710,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 66216083540615926,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10360113,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360196
+    },
+    {
+        "cgDes": 1032548564,
+        "cgName": 13187473,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103601,
+        "id": 10360106,
+        "showImageHashPre": -34,
+        "showImageHashSuffix": 69904753765808145,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 46882095687268693,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10360197,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360197
+    },
+    {
+        "cgDes": 2039448196,
+        "cgName": 27435105,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360111,
+        "showImageHashPre": -24,
+        "showImageHashSuffix": 17448548790780034,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 10889756720582328,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10360104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360191
+    },
+    {
+        "cgDes": 3247169516,
+        "cgName": 1784724,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360112,
+        "showImageHashPre": -101,
+        "showImageHashSuffix": 46559741077594878,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 42346306921975921,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10360108,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360192
+    },
+    {
+        "cgDes": 2183452020,
+        "cgName": 12393897,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360113,
+        "showImageHashPre": -77,
+        "showImageHashSuffix": 66761148244083546,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 61838012223562290,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10360119,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360193
+    },
+    {
+        "cgDes": 2107450620,
+        "cgName": 24747911,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360114,
+        "showImageHashPre": -112,
+        "showImageHashSuffix": 9187097630879448,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 3451912984463599,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10360109,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360195
+    },
+    {
+        "cgDes": 1783775492,
+        "cgName": 18212105,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360115,
+        "showImageHashPre": -1,
+        "showImageHashSuffix": 49380626793594376,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 7124746352029031,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10360113,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360196
+    },
+    {
+        "cgDes": 3674072884,
+        "cgName": 31913856,
+        "cgType": "CG_MALE",
+        "chapterId": 103601,
+        "id": 10360116,
+        "showImageHashPre": -57,
+        "showImageHashSuffix": 52823969456327735,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 36979618683209829,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10360197,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10360197
+    },
+    {
+        "cgDes": 3259636004,
+        "cgName": 5482981,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340101,
+        "showImageHashPre": -128,
+        "showImageHashSuffix": 35851141650330473,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 61914923633675981,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10340191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340191
+    },
+    {
+        "cgDes": 4212765516,
+        "cgName": 11883975,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340102,
+        "showImageHashPre": -2,
+        "showImageHashSuffix": 6702526840478351,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 38914730964621103,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10340104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340192
+    },
+    {
+        "cgDes": 276831572,
+        "cgName": 9760090,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340103,
+        "showImageHashPre": -60,
+        "showImageHashSuffix": 47805538821317832,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 8075943687887141,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10340106,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340193
+    },
+    {
+        "cgDes": 3882858148,
+        "cgName": 6359733,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340104,
+        "showImageHashPre": -14,
+        "showImageHashSuffix": 42575148637332178,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 36245188843798509,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10340107,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340194
+    },
+    {
+        "cgDes": 2136877748,
+        "cgName": 5587076,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340105,
+        "showImageHashPre": -10,
+        "showImageHashSuffix": 22170982342168755,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 13972169954219265,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10340110,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340195
+    },
+    {
+        "cgDes": 1017526556,
+        "cgName": 14940091,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103401,
+        "id": 10340106,
+        "showImageHashPre": -14,
+        "showImageHashSuffix": 24651347463470129,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 33126773747250110,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10340112,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340196
+    },
+    {
+        "cgDes": 2280382012,
+        "cgName": 12930209,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340111,
+        "showImageHashPre": -93,
+        "showImageHashSuffix": 35057729377422269,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 28460742852305027,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10340191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340191
+    },
+    {
+        "cgDes": 195872724,
+        "cgName": 10732012,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340112,
+        "showImageHashPre": -34,
+        "showImageHashSuffix": 5806804305609285,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 57272098061553193,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10340104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340192
+    },
+    {
+        "cgDes": 4105052076,
+        "cgName": 12741200,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340113,
+        "showImageHashPre": -98,
+        "showImageHashSuffix": 45090390743679367,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 66903033830933749,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10340106,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340193
+    },
+    {
+        "cgDes": 2620904396,
+        "cgName": 30961430,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340114,
+        "showImageHashPre": -37,
+        "showImageHashSuffix": 66245709291380316,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 70732892160213050,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10340107,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340194
+    },
+    {
+        "cgDes": 4152244212,
+        "cgName": 11337901,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340115,
+        "showImageHashPre": -40,
+        "showImageHashSuffix": 60656072633057095,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 57009666777507813,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10340110,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340195
+    },
+    {
+        "cgDes": 3005123828,
+        "cgName": 30555682,
+        "cgType": "CG_MALE",
+        "chapterId": 103401,
+        "id": 10340116,
+        "showImageHashPre": -90,
+        "showImageHashSuffix": 17806825108501257,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 40010213872703947,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10340112,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340196
+    },
+    {
+        "cgDes": 2325036620,
+        "cgName": 15140571,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320101,
+        "showImageHashPre": -25,
+        "showImageHashSuffix": 13142592454876208,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 65967782420676266,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10320104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320191
+    },
+    {
+        "cgDes": 3169905420,
+        "cgName": 5037899,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320102,
+        "showImageHashPre": -6,
+        "showImageHashSuffix": 6767271770621904,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 14951693637312736,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10320107,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320192
+    },
+    {
+        "cgDes": 174443748,
+        "cgName": 30371783,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320103,
+        "showImageHashPre": -77,
+        "showImageHashSuffix": 67423531368340208,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 47422283275231291,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10320193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320193
+    },
+    {
+        "cgDes": 1115504852,
+        "cgName": 6404933,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320104,
+        "showImageHashPre": -93,
+        "showImageHashSuffix": 29321643777969642,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 27530651088457940,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10320194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320194
+    },
+    {
+        "cgDes": 964546908,
+        "cgName": 18254013,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320105,
+        "showImageHashPre": -120,
+        "showImageHashSuffix": 15226093571449380,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 43873470528273885,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10320195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320195
+    },
+    {
+        "cgDes": 821215772,
+        "cgName": 22315671,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103201,
+        "id": 10320106,
+        "showImageHashPre": -58,
+        "showImageHashSuffix": 3575729066053290,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 20766473646745091,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10320196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320196
+    },
+    {
+        "cgDes": 3346369980,
+        "cgName": 31549713,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320111,
+        "showImageHashPre": -68,
+        "showImageHashSuffix": 14271353450747824,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 61889588393927763,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10320104,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320191
+    },
+    {
+        "cgDes": 1907975700,
+        "cgName": 33088615,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320112,
+        "showImageHashPre": -47,
+        "showImageHashSuffix": 24894872632049099,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 5779104210324890,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10320107,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320192
+    },
+    {
+        "cgDes": 1000119468,
+        "cgName": 26810120,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320113,
+        "showImageHashPre": -89,
+        "showImageHashSuffix": 6594066614813259,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 58550459234632836,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10320193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320193
+    },
+    {
+        "cgDes": 2583282140,
+        "cgName": 10113668,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320114,
+        "showImageHashPre": -47,
+        "showImageHashSuffix": 45941844674271306,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 55577735708713853,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10320194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320194
+    },
+    {
+        "cgDes": 3713583284,
+        "cgName": 17504524,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320115,
+        "showImageHashPre": -104,
+        "showImageHashSuffix": 37038416417681010,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 12676504303504180,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10320195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320195
+    },
+    {
+        "cgDes": 2465045516,
+        "cgName": 18013830,
+        "cgType": "CG_MALE",
+        "chapterId": 103201,
+        "id": 10320116,
+        "showImageHashPre": -103,
+        "showImageHashSuffix": 59197638620247407,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 26556129841631945,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10320196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10320196
+    },
+    {
+        "cgDes": 820519340,
+        "cgName": 17848285,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340201,
+        "showImageHashPre": -74,
+        "showImageHashSuffix": 26365870655872606,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 2377999123622792,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10340291,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340291
+    },
+    {
+        "cgDes": 2123089868,
+        "cgName": 29136164,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340202,
+        "showImageHashPre": -106,
+        "showImageHashSuffix": 69085565708972684,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 19444633690384388,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10340292,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340292
+    },
+    {
+        "cgDes": 2087876252,
+        "cgName": 7561722,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340203,
+        "showImageHashPre": -112,
+        "showImageHashSuffix": 15156390436477128,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 48751396147368122,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10340293,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340293
+    },
+    {
+        "cgDes": 1500963020,
+        "cgName": 15971094,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340204,
+        "showImageHashPre": -110,
+        "showImageHashSuffix": 11575779189296851,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 67592893153915179,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10340294,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340294
+    },
+    {
+        "cgDes": 497165828,
+        "cgName": 31281961,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340205,
+        "showImageHashPre": -128,
+        "showImageHashSuffix": 3097536024246989,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 66725939031964943,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10340295,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340295
+    },
+    {
+        "cgDes": 1998764748,
+        "cgName": 6291472,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103402,
+        "id": 10340206,
+        "showImageHashPre": -50,
+        "showImageHashSuffix": 13051135603951882,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 55554315229440751,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10340296,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340296
+    },
+    {
+        "cgDes": 2842947924,
+        "cgName": 27869806,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340211,
+        "showImageHashPre": -118,
+        "showImageHashSuffix": 28823093832682182,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 43039880782492883,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10340291,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340291
+    },
+    {
+        "cgDes": 3115593820,
+        "cgName": 11836175,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340212,
+        "showImageHashPre": -96,
+        "showImageHashSuffix": 58543644102727818,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 30195516906460747,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10340292,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340292
+    },
+    {
+        "cgDes": 2717541692,
+        "cgName": 28810418,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340213,
+        "showImageHashPre": -113,
+        "showImageHashSuffix": 60104450250241443,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 14491467890214376,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10340293,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340293
+    },
+    {
+        "cgDes": 1622058492,
+        "cgName": 22754600,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340214,
+        "showImageHashPre": -56,
+        "showImageHashSuffix": 49039364661597077,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 64653308833453686,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10340294,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340294
+    },
+    {
+        "cgDes": 2277421228,
+        "cgName": 26044484,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340215,
+        "showImageHashPre": -26,
+        "showImageHashSuffix": 12267700309653607,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 20892712465041097,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10340295,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340295
+    },
+    {
+        "cgDes": 1477769164,
+        "cgName": 5777200,
+        "cgType": "CG_MALE",
+        "chapterId": 103402,
+        "id": 10340216,
+        "showImageHashPre": -90,
+        "showImageHashSuffix": 69935239648332670,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 68630742967647336,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10340296,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10340296
+    },
+    {
+        "cgDes": 716024580,
+        "cgName": 13253264,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103901,
+        "id": 10390101,
+        "showImageHashPre": -52,
+        "showImageHashSuffix": 4484399560761957,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 1581948297078445,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10390191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390191
+    },
+    {
+        "cgDes": 2080440308,
+        "cgName": 11680316,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103901,
+        "id": 10390102,
+        "showImageHashPre": -46,
+        "showImageHashSuffix": 54244334412026082,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 47125534082689863,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10390192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390192
+    },
+    {
+        "cgDes": 869910900,
+        "cgName": 25619669,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103901,
+        "id": 10390103,
+        "showImageHashPre": -85,
+        "showImageHashSuffix": 26357739358029490,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 13956621771097185,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10390193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390193
+    },
+    {
+        "cgDes": 3564891908,
+        "cgName": 25308536,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103901,
+        "id": 10390104,
+        "showImageHashPre": -24,
+        "showImageHashSuffix": 3053652359810707,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 44035494188234645,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10390194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390194
+    },
+    {
+        "cgDes": 1862720028,
+        "cgName": 4424218,
+        "cgType": "CG_FEMALE",
+        "chapterId": 103901,
+        "id": 10390105,
+        "showImageHashPre": -12,
+        "showImageHashSuffix": 37086877264183725,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 55511859194825633,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10390195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390195
+    },
+    {
+        "cgDes": 4050385236,
+        "cgName": 7460813,
+        "cgType": "CG_MALE",
+        "chapterId": 103901,
+        "id": 10390111,
+        "showImageHashPre": -47,
+        "showImageHashSuffix": 2539177539049058,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 54720599160834287,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10390191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390191
+    },
+    {
+        "cgDes": 3939235660,
+        "cgName": 11967293,
+        "cgType": "CG_MALE",
+        "chapterId": 103901,
+        "id": 10390112,
+        "showImageHashPre": -40,
+        "showImageHashSuffix": 33286462522275808,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 36640081589412013,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10390192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390192
+    },
+    {
+        "cgDes": 2606068284,
+        "cgName": 5487259,
+        "cgType": "CG_MALE",
+        "chapterId": 103901,
+        "id": 10390113,
+        "showImageHashPre": -100,
+        "showImageHashSuffix": 1723397778894922,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 28441309703458274,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10390193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390193
+    },
+    {
+        "cgDes": 1673413332,
+        "cgName": 929063,
+        "cgType": "CG_MALE",
+        "chapterId": 103901,
+        "id": 10390114,
+        "showImageHashPre": -11,
+        "showImageHashSuffix": 38204799998201708,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 63093400125920920,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10390194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390194
+    },
+    {
+        "cgDes": 1585120236,
+        "cgName": 1255597,
+        "cgType": "CG_MALE",
+        "chapterId": 103901,
+        "id": 10390115,
+        "showImageHashPre": -60,
+        "showImageHashSuffix": 24197289515805891,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 8108129585986856,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10390195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10390195
+    },
+    {
+        "cgDes": 804084412,
+        "cgName": 25661002,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500101,
+        "showImageHashPre": -103,
+        "showImageHashSuffix": 68267055675779305,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 61327193945814046,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10500191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500191
+    },
+    {
+        "cgDes": 1153417844,
+        "cgName": 33454725,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500102,
+        "showImageHashPre": -69,
+        "showImageHashSuffix": 41371132521268298,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 30357102205131263,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10500192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500192
+    },
+    {
+        "cgDes": 1099092660,
+        "cgName": 18070843,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500103,
+        "showImageHashPre": -92,
+        "showImageHashSuffix": 50728081332662756,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 45251989460558512,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10500193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500193
+    },
+    {
+        "cgDes": 1242509892,
+        "cgName": 13962091,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500104,
+        "showImageHashPre": -76,
+        "showImageHashSuffix": 53692027458770153,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 4471248886724011,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10500194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500194
+    },
+    {
+        "cgDes": 4019734060,
+        "cgName": 6544425,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500105,
+        "showImageHashPre": -104,
+        "showImageHashSuffix": 36577378208446622,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 8978040812093486,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10500195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500195
+    },
+    {
+        "cgDes": 3132452772,
+        "cgName": 719620,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105001,
+        "id": 10500106,
+        "showImageHashPre": -22,
+        "showImageHashSuffix": 70603265868172737,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 56977668953026599,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10500196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500196
+    },
+    {
+        "cgDes": 3999382244,
+        "cgName": 16707648,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500111,
+        "showImageHashPre": -77,
+        "showImageHashSuffix": 26284951289780764,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 54336291387376965,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10500191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500191
+    },
+    {
+        "cgDes": 1872580252,
+        "cgName": 26006881,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500112,
+        "showImageHashPre": -25,
+        "showImageHashSuffix": 4376232762610801,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 34066914726533460,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10500192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500192
+    },
+    {
+        "cgDes": 2146356012,
+        "cgName": 14982608,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500113,
+        "showImageHashPre": -42,
+        "showImageHashSuffix": 60609499157024587,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 58852297819437760,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10500193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500193
+    },
+    {
+        "cgDes": 969022988,
+        "cgName": 2441450,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500114,
+        "showImageHashPre": -28,
+        "showImageHashSuffix": 17590850781251054,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 2771820690088537,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10500194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500194
+    },
+    {
+        "cgDes": 3865148012,
+        "cgName": 14695976,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500115,
+        "showImageHashPre": -109,
+        "showImageHashSuffix": 60269381477045396,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 67995505130232936,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10500195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500195
+    },
+    {
+        "cgDes": 3311355844,
+        "cgName": 1847491,
+        "cgType": "CG_MALE",
+        "chapterId": 105001,
+        "id": 10500116,
+        "showImageHashPre": -1,
+        "showImageHashSuffix": 60062067967915516,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 8431618851849857,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10500196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10500196
+    },
+    {
+        "cgDes": 2041049156,
+        "cgName": 29193057,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530101,
+        "showImageHashPre": -114,
+        "showImageHashSuffix": 14742635759076002,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 14678342350555505,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10530191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530191
+    },
+    {
+        "cgDes": 1143812804,
+        "cgName": 6950915,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530102,
+        "showImageHashPre": -115,
+        "showImageHashSuffix": 24584434816360163,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 69136165136974001,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10530192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530192
+    },
+    {
+        "cgDes": 2366710228,
+        "cgName": 13054939,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530103,
+        "showImageHashPre": -67,
+        "showImageHashSuffix": 28950769270618441,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 7414604229327584,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10530193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530193
+    },
+    {
+        "cgDes": 1886181436,
+        "cgName": 15093783,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530104,
+        "showImageHashPre": -95,
+        "showImageHashSuffix": 14537511731138604,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 7176564496719071,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10530194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530194
+    },
+    {
+        "cgDes": 4213150532,
+        "cgName": 23146638,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530105,
+        "showImageHashPre": -115,
+        "showImageHashSuffix": 5039700946827421,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 4662701319239357,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10530195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530195
+    },
+    {
+        "cgDes": 4141140524,
+        "cgName": 3606525,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105301,
+        "id": 10530106,
+        "showImageHashPre": -33,
+        "showImageHashSuffix": 39256092031222232,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 14847977295110814,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10530196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530196
+    },
+    {
+        "cgDes": 3178312404,
+        "cgName": 22887508,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530111,
+        "showImageHashPre": -109,
+        "showImageHashSuffix": 17261589006159417,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 24255389185210907,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10530191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530191
+    },
+    {
+        "cgDes": 374966916,
+        "cgName": 17602528,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530112,
+        "showImageHashPre": -53,
+        "showImageHashSuffix": 28601215340517172,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 27107117385270103,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10530192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530192
+    },
+    {
+        "cgDes": 2909975908,
+        "cgName": 4380013,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530113,
+        "showImageHashPre": -90,
+        "showImageHashSuffix": 44389916849000511,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 57396149435923107,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10530193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530193
+    },
+    {
+        "cgDes": 4189655268,
+        "cgName": 17106096,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530114,
+        "showImageHashPre": -21,
+        "showImageHashSuffix": 31755102295278570,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 53099401398394373,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10530194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530194
+    },
+    {
+        "cgDes": 1658363500,
+        "cgName": 20725032,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530115,
+        "showImageHashPre": -36,
+        "showImageHashSuffix": 19102021953138348,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 9118493751601195,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10530195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530195
+    },
+    {
+        "cgDes": 1009645324,
+        "cgName": 9795833,
+        "cgType": "CG_MALE",
+        "chapterId": 105301,
+        "id": 10530116,
+        "showImageHashPre": -69,
+        "showImageHashSuffix": 58862738696188437,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 29104161960268944,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10530196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10530196
+    },
+    {
+        "cgDes": 1510079100,
+        "cgName": 25832130,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102401,
+        "id": 10240101,
+        "showImageHashPre": -86,
+        "showImageHashSuffix": 57399709921898176,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 12925751774072194,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10240191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240191
+    },
+    {
+        "cgDes": 3938584236,
+        "cgName": 11349173,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102401,
+        "id": 10240102,
+        "showImageHashPre": -33,
+        "showImageHashSuffix": 58781276658859899,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 66896166909329161,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10240192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240192
+    },
+    {
+        "cgDes": 2843807836,
+        "cgName": 15151976,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102401,
+        "id": 10240103,
+        "showImageHashPre": -94,
+        "showImageHashSuffix": 17489455741032763,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 62588848974710652,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10240193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240193
+    },
+    {
+        "cgDes": 3895970116,
+        "cgName": 8216948,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102401,
+        "id": 10240104,
+        "showImageHashPre": -114,
+        "showImageHashSuffix": 12257740854420396,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 17768031349210766,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10240194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240194
+    },
+    {
+        "cgDes": 290885532,
+        "cgName": 3614776,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102401,
+        "id": 10240105,
+        "showImageHashPre": -8,
+        "showImageHashSuffix": 12523216466878247,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 66650105618030185,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10240195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240195
+    },
+    {
+        "cgDes": 61127804,
+        "cgName": 21189224,
+        "cgType": "CG_MALE",
+        "chapterId": 102401,
+        "id": 10240111,
+        "showImageHashPre": -87,
+        "showImageHashSuffix": 59757728208019130,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 5095606470996369,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10240191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240191
+    },
+    {
+        "cgDes": 23649468,
+        "cgName": 5205748,
+        "cgType": "CG_MALE",
+        "chapterId": 102401,
+        "id": 10240112,
+        "showImageHashPre": -44,
+        "showImageHashSuffix": 17401704374998648,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 31146234471070834,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10240192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240192
+    },
+    {
+        "cgDes": 148336468,
+        "cgName": 6184169,
+        "cgType": "CG_MALE",
+        "chapterId": 102401,
+        "id": 10240113,
+        "showImageHashPre": -115,
+        "showImageHashSuffix": 69599365608631054,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 60921796218239100,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10240193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240193
+    },
+    {
+        "cgDes": 3823997340,
+        "cgName": 14140798,
+        "cgType": "CG_MALE",
+        "chapterId": 102401,
+        "id": 10240114,
+        "showImageHashPre": -122,
+        "showImageHashSuffix": 7039873071613537,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 28292765294431660,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10240194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240194
+    },
+    {
+        "cgDes": 1610174076,
+        "cgName": 11339503,
+        "cgType": "CG_MALE",
+        "chapterId": 102401,
+        "id": 10240115,
+        "showImageHashPre": -96,
+        "showImageHashSuffix": 69640303957585867,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 54900210069381928,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10240195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10240195
+    },
+    {
+        "cgDes": 4103184364,
+        "cgName": 9738446,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105501,
+        "id": 10550101,
+        "showImageHashPre": -95,
+        "showImageHashSuffix": 15260304295029545,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 61259288620599059,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10550191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550191
+    },
+    {
+        "cgDes": 2292859340,
+        "cgName": 2128218,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105501,
+        "id": 10550102,
+        "showImageHashPre": -106,
+        "showImageHashSuffix": 7051587562107561,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 20785503205303672,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10550192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550192
+    },
+    {
+        "cgDes": 2526378588,
+        "cgName": 13799918,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105501,
+        "id": 10550103,
+        "showImageHashPre": -15,
+        "showImageHashSuffix": 42843188374842130,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 36179002563175048,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10550193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550193
+    },
+    {
+        "cgDes": 2577504068,
+        "cgName": 13962910,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105501,
+        "id": 10550104,
+        "showImageHashPre": -3,
+        "showImageHashSuffix": 22342006148875917,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 36493434770079273,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10550194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550194
+    },
+    {
+        "cgDes": 69174556,
+        "cgName": 10897021,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105501,
+        "id": 10550105,
+        "showImageHashPre": -69,
+        "showImageHashSuffix": 18200506305405189,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 28126824054259603,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10550195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550195
+    },
+    {
+        "cgDes": 2331599956,
+        "cgName": 12637046,
+        "cgType": "CG_MALE",
+        "chapterId": 105501,
+        "id": 10550111,
+        "showImageHashPre": -96,
+        "showImageHashSuffix": 4680685348754561,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 35765092245849322,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10550191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550191
+    },
+    {
+        "cgDes": 1490438020,
+        "cgName": 9620584,
+        "cgType": "CG_MALE",
+        "chapterId": 105501,
+        "id": 10550112,
+        "showImageHashPre": -36,
+        "showImageHashSuffix": 16288627805511032,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 60745980876843905,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10550192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550192
+    },
+    {
+        "cgDes": 3729648012,
+        "cgName": 13602014,
+        "cgType": "CG_MALE",
+        "chapterId": 105501,
+        "id": 10550113,
+        "showImageHashPre": -78,
+        "showImageHashSuffix": 13454324387136240,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 23038779462750108,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10550193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550193
+    },
+    {
+        "cgDes": 4011856380,
+        "cgName": 3429430,
+        "cgType": "CG_MALE",
+        "chapterId": 105501,
+        "id": 10550114,
+        "showImageHashPre": -121,
+        "showImageHashSuffix": 65285453341938784,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 48847768428632124,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10550194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550194
+    },
+    {
+        "cgDes": 589386428,
+        "cgName": 11626913,
+        "cgType": "CG_MALE",
+        "chapterId": 105501,
+        "id": 10550115,
+        "showImageHashPre": -58,
+        "showImageHashSuffix": 22298617958885489,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 25654380700614945,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10550195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10550195
+    },
+    {
+        "cgDes": 2687618044,
+        "cgName": 7740922,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102701,
+        "id": 10270101,
+        "showImageHashPre": -47,
+        "showImageHashSuffix": 52872886696404427,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 71551445367010368,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10270191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270191
+    },
+    {
+        "cgDes": 3979955804,
+        "cgName": 23396799,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102701,
+        "id": 10270102,
+        "showImageHashPre": -1,
+        "showImageHashSuffix": 29003166595365621,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 44511567510429965,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10270192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270192
+    },
+    {
+        "cgDes": 575930988,
+        "cgName": 26219366,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102701,
+        "id": 10270103,
+        "showImageHashPre": -16,
+        "showImageHashSuffix": 37939380334261037,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 70127559103164050,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10270193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270193
+    },
+    {
+        "cgDes": 1924922708,
+        "cgName": 9681038,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102701,
+        "id": 10270104,
+        "showImageHashPre": -79,
+        "showImageHashSuffix": 15191107425632180,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 43946371893373439,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10270194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270194
+    },
+    {
+        "cgDes": 2497675484,
+        "cgName": 23963728,
+        "cgType": "CG_FEMALE",
+        "chapterId": 102701,
+        "id": 10270105,
+        "showImageHashPre": -94,
+        "showImageHashSuffix": 10521681602404641,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 60689516752438837,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10270195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270195
+    },
+    {
+        "cgDes": 4118855780,
+        "cgName": 24295135,
+        "cgType": "CG_MALE",
+        "chapterId": 102701,
+        "id": 10270111,
+        "showImageHashPre": -89,
+        "showImageHashSuffix": 67991402155486416,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 11180994797186423,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10270191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270191
+    },
+    {
+        "cgDes": 3535629460,
+        "cgName": 7444777,
+        "cgType": "CG_MALE",
+        "chapterId": 102701,
+        "id": 10270112,
+        "showImageHashPre": -60,
+        "showImageHashSuffix": 46319512167734664,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 11272470932862020,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10270192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270192
+    },
+    {
+        "cgDes": 3971989948,
+        "cgName": 7496528,
+        "cgType": "CG_MALE",
+        "chapterId": 102701,
+        "id": 10270113,
+        "showImageHashPre": -25,
+        "showImageHashSuffix": 60273042515010901,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 43955692425771379,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10270193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270193
+    },
+    {
+        "cgDes": 431227852,
+        "cgName": 27140014,
+        "cgType": "CG_MALE",
+        "chapterId": 102701,
+        "id": 10270114,
+        "showImageHashPre": -48,
+        "showImageHashSuffix": 59288909628512605,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 30642158778569988,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10270194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270194
+    },
+    {
+        "cgDes": 1138355012,
+        "cgName": 24235323,
+        "cgType": "CG_MALE",
+        "chapterId": 102701,
+        "id": 10270115,
+        "showImageHashPre": -120,
+        "showImageHashSuffix": 19317392839868769,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 53071707663332277,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10270195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10270195
+    },
+    {
+        "cgDes": 1219074644,
+        "cgName": 15748270,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106401,
+        "id": 10640101,
+        "showImageHashPre": -45,
+        "showImageHashSuffix": 39939722404444502,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 3666815081531529,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10640191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640191
+    },
+    {
+        "cgDes": 2397963052,
+        "cgName": 20261518,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106401,
+        "id": 10640102,
+        "showImageHashPre": -34,
+        "showImageHashSuffix": 8194015394987574,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 18787264042756476,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10640192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640192
+    },
+    {
+        "cgDes": 1820659500,
+        "cgName": 21679716,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106401,
+        "id": 10640103,
+        "showImageHashPre": -22,
+        "showImageHashSuffix": 16114751849074922,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 44609761655616889,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10640193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640193
+    },
+    {
+        "cgDes": 259872468,
+        "cgName": 33293192,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106401,
+        "id": 10640104,
+        "showImageHashPre": -87,
+        "showImageHashSuffix": 937103159415845,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 2571090915780048,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10640194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640194
+    },
+    {
+        "cgDes": 149581628,
+        "cgName": 24452288,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106401,
+        "id": 10640105,
+        "showImageHashPre": -31,
+        "showImageHashSuffix": 61807026213256722,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 10551374672214248,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10640195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640195
+    },
+    {
+        "cgDes": 791868564,
+        "cgName": 25675129,
+        "cgType": "CG_MALE",
+        "chapterId": 106401,
+        "id": 10640111,
+        "showImageHashPre": -68,
+        "showImageHashSuffix": 65081700676863067,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 2402657089005743,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10640191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640191
+    },
+    {
+        "cgDes": 3531823700,
+        "cgName": 18269255,
+        "cgType": "CG_MALE",
+        "chapterId": 106401,
+        "id": 10640112,
+        "showImageHashPre": -97,
+        "showImageHashSuffix": 65658607948066696,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 54807292103002544,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10640192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640192
+    },
+    {
+        "cgDes": 2406974140,
+        "cgName": 15219065,
+        "cgType": "CG_MALE",
+        "chapterId": 106401,
+        "id": 10640113,
+        "showImageHashPre": -12,
+        "showImageHashSuffix": 46773983008172947,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 60840636412518231,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10640193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640193
+    },
+    {
+        "cgDes": 3873610588,
+        "cgName": 20245667,
+        "cgType": "CG_MALE",
+        "chapterId": 106401,
+        "id": 10640114,
+        "showImageHashPre": -111,
+        "showImageHashSuffix": 23209092999888689,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 69406342612863251,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10640194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640194
+    },
+    {
+        "cgDes": 2614072444,
+        "cgName": 31877365,
+        "cgType": "CG_MALE",
+        "chapterId": 106401,
+        "id": 10640115,
+        "showImageHashPre": -40,
+        "showImageHashSuffix": 41571456236749333,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 58867875504481048,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10640195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10640195
+    },
+    {
+        "cgDes": 1418944492,
+        "cgName": 9009233,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106501,
+        "id": 10650101,
+        "showImageHashPre": -5,
+        "showImageHashSuffix": 29426397988030884,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 44704086466619587,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10650191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650191
+    },
+    {
+        "cgDes": 2186726492,
+        "cgName": 30968353,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106501,
+        "id": 10650102,
+        "showImageHashPre": -28,
+        "showImageHashSuffix": 16251944257019669,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 41617371515329773,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10650192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650192
+    },
+    {
+        "cgDes": 2712333908,
+        "cgName": 3151437,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106501,
+        "id": 10650103,
+        "showImageHashPre": -69,
+        "showImageHashSuffix": 5475423299242545,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 62151158772670604,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10650193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650193
+    },
+    {
+        "cgDes": 308733396,
+        "cgName": 33394823,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106501,
+        "id": 10650104,
+        "showImageHashPre": -88,
+        "showImageHashSuffix": 6790062751885119,
+        "showImageSmallHashPre": -62,
+        "showImageSmallHashSuffix": 46474398841754529,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10650194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650194
+    },
+    {
+        "cgDes": 2975482684,
+        "cgName": 21837629,
+        "cgType": "CG_FEMALE",
+        "chapterId": 106501,
+        "id": 10650105,
+        "showImageHashPre": -111,
+        "showImageHashSuffix": 14369989773603301,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 18416124650297791,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10650195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650195
+    },
+    {
+        "cgDes": 22155356,
+        "cgName": 22848393,
+        "cgType": "CG_MALE",
+        "chapterId": 106501,
+        "id": 10650111,
+        "showImageHashPre": -101,
+        "showImageHashSuffix": 2689926813292679,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 49148218989046820,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10650191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650191
+    },
+    {
+        "cgDes": 4118656556,
+        "cgName": 23738178,
+        "cgType": "CG_MALE",
+        "chapterId": 106501,
+        "id": 10650112,
+        "showImageHashPre": -7,
+        "showImageHashSuffix": 49237081586820334,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 31256336549174529,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10650192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650192
+    },
+    {
+        "cgDes": 1756620636,
+        "cgName": 3116614,
+        "cgType": "CG_MALE",
+        "chapterId": 106501,
+        "id": 10650113,
+        "showImageHashPre": -24,
+        "showImageHashSuffix": 67316712614115065,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 10610801466093170,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10650193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650193
+    },
+    {
+        "cgDes": 1888040556,
+        "cgName": 5507875,
+        "cgType": "CG_MALE",
+        "chapterId": 106501,
+        "id": 10650114,
+        "showImageHashPre": -66,
+        "showImageHashSuffix": 27266017390964155,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 47014950274393005,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10650194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650194
+    },
+    {
+        "cgDes": 2503518140,
+        "cgName": 20090928,
+        "cgType": "CG_MALE",
+        "chapterId": 106501,
+        "id": 10650115,
+        "showImageHashPre": -33,
+        "showImageHashSuffix": 55148381806042842,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 29895259021190207,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10650195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10650195
+    },
+    {
+        "cgDes": 1426504652,
+        "cgName": 16260914,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105901,
+        "id": 10590101,
+        "showImageHashPre": -33,
+        "showImageHashSuffix": 57986498945059898,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 29658214365095393,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10590191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590191
+    },
+    {
+        "cgDes": 4076858812,
+        "cgName": 22227000,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105901,
+        "id": 10590102,
+        "showImageHashPre": -30,
+        "showImageHashSuffix": 18782308154809773,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 62811712592643385,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10590192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590192
+    },
+    {
+        "cgDes": 2007790068,
+        "cgName": 18846104,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105901,
+        "id": 10590103,
+        "showImageHashPre": -109,
+        "showImageHashSuffix": 64501813723369439,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 44181049173905881,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10590193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590193
+    },
+    {
+        "cgDes": 835731172,
+        "cgName": 25533451,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105901,
+        "id": 10590104,
+        "showImageHashPre": -78,
+        "showImageHashSuffix": 68682988963111552,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 16052108741615262,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10590194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590194
+    },
+    {
+        "cgDes": 2447719724,
+        "cgName": 14797888,
+        "cgType": "CG_FEMALE",
+        "chapterId": 105901,
+        "id": 10590105,
+        "showImageHashPre": -50,
+        "showImageHashSuffix": 28348546411890995,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 30968736350847322,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10590195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590195
+    },
+    {
+        "cgDes": 837623012,
+        "cgName": 7781072,
+        "cgType": "CG_MALE",
+        "chapterId": 105901,
+        "id": 10590111,
+        "showImageHashPre": -107,
+        "showImageHashSuffix": 63393475882754029,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 70247432357072299,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10590191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590191
+    },
+    {
+        "cgDes": 4190265628,
+        "cgName": 27516260,
+        "cgType": "CG_MALE",
+        "chapterId": 105901,
+        "id": 10590112,
+        "showImageHashPre": -95,
+        "showImageHashSuffix": 298888513534623,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 49329300262214897,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10590192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590192
+    },
+    {
+        "cgDes": 3059514468,
+        "cgName": 4564297,
+        "cgType": "CG_MALE",
+        "chapterId": 105901,
+        "id": 10590113,
+        "showImageHashPre": -59,
+        "showImageHashSuffix": 38448716710961141,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 2978434682483656,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10590193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590193
+    },
+    {
+        "cgDes": 2920983092,
+        "cgName": 20637995,
+        "cgType": "CG_MALE",
+        "chapterId": 105901,
+        "id": 10590114,
+        "showImageHashPre": -100,
+        "showImageHashSuffix": 43492448492236136,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 31714349870068853,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10590194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590194
+    },
+    {
+        "cgDes": 3751965988,
+        "cgName": 2120571,
+        "cgType": "CG_MALE",
+        "chapterId": 105901,
+        "id": 10590115,
+        "showImageHashPre": -89,
+        "showImageHashSuffix": 26021836812429542,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 67794955337206970,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10590195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10590195
+    },
+    {
+        "cgDes": 1206115444,
+        "cgName": 11590497,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107601,
+        "id": 10760101,
+        "showImageHashPre": -53,
+        "showImageHashSuffix": 7660173360641170,
+        "showImageSmallHashPre": -70,
+        "showImageSmallHashSuffix": 49301702556475890,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10760191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760191
+    },
+    {
+        "cgDes": 2651626188,
+        "cgName": 27410762,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107601,
+        "id": 10760102,
+        "showImageHashPre": -128,
+        "showImageHashSuffix": 48251732445515,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 51741394712718082,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10760192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760192
+    },
+    {
+        "cgDes": 1492545284,
+        "cgName": 15233912,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107601,
+        "id": 10760103,
+        "showImageHashPre": -46,
+        "showImageHashSuffix": 20756484679501230,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 42537943949832036,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10760193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760193
+    },
+    {
+        "cgDes": 436032948,
+        "cgName": 10471460,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107601,
+        "id": 10760104,
+        "showImageHashPre": -31,
+        "showImageHashSuffix": 42298935948124853,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 32485282922285806,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10760194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760194
+    },
+    {
+        "cgDes": 3313687300,
+        "cgName": 3545408,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107601,
+        "id": 10760105,
+        "showImageHashPre": -118,
+        "showImageHashSuffix": 4306820638472351,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 20768811160136235,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10760195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760195
+    },
+    {
+        "cgDes": 2737315724,
+        "cgName": 16172343,
+        "cgType": "CG_MALE",
+        "chapterId": 107601,
+        "id": 10760111,
+        "showImageHashPre": -62,
+        "showImageHashSuffix": 43447851791482303,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 47442961714009226,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10760191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760191
+    },
+    {
+        "cgDes": 4163559708,
+        "cgName": 32649203,
+        "cgType": "CG_MALE",
+        "chapterId": 107601,
+        "id": 10760112,
+        "showImageHashPre": -35,
+        "showImageHashSuffix": 39737491907959207,
+        "showImageSmallHashPre": -94,
+        "showImageSmallHashSuffix": 66868799604270492,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10760192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760192
+    },
+    {
+        "cgDes": 1102794108,
+        "cgName": 15660185,
+        "cgType": "CG_MALE",
+        "chapterId": 107601,
+        "id": 10760113,
+        "showImageHashPre": -112,
+        "showImageHashSuffix": 10741944573898622,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 53793894835749998,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10760193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760193
+    },
+    {
+        "cgDes": 3565570636,
+        "cgName": 15019509,
+        "cgType": "CG_MALE",
+        "chapterId": 107601,
+        "id": 10760114,
+        "showImageHashPre": -3,
+        "showImageHashSuffix": 2389944048947370,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 53907602826842738,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10760194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760194
+    },
+    {
+        "cgDes": 607141556,
+        "cgName": 22873667,
+        "cgType": "CG_MALE",
+        "chapterId": 107601,
+        "id": 10760115,
+        "showImageHashPre": -48,
+        "showImageHashSuffix": 52601062530975097,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 40093474932070124,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10760195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10760195
+    },
+    {
+        "cgDes": 3858430724,
+        "cgName": 23835037,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740101,
+        "showImageHashPre": -47,
+        "showImageHashSuffix": 11525521443755831,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 42774261178363913,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10740191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740191
+    },
+    {
+        "cgDes": 1200724884,
+        "cgName": 17526849,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740102,
+        "showImageHashPre": -101,
+        "showImageHashSuffix": 67984140397158992,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 52588300744828766,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10740192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740192
+    },
+    {
+        "cgDes": 3059383492,
+        "cgName": 28458567,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740103,
+        "showImageHashPre": -75,
+        "showImageHashSuffix": 64542470394849122,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 15304672006828354,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10740193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740193
+    },
+    {
+        "cgDes": 2099393972,
+        "cgName": 29494388,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740104,
+        "showImageHashPre": -33,
+        "showImageHashSuffix": 1040446552244480,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 56896576104913822,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10740194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740194
+    },
+    {
+        "cgDes": 396174260,
+        "cgName": 20475617,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740105,
+        "showImageHashPre": -79,
+        "showImageHashSuffix": 59841797976907866,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 17019754081729860,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10740195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740195
+    },
+    {
+        "cgDes": 1609987260,
+        "cgName": 3320259,
+        "cgType": "CG_FEMALE",
+        "chapterId": 107401,
+        "id": 10740106,
+        "showImageHashPre": -6,
+        "showImageHashSuffix": 34261629240619152,
+        "showImageSmallHashPre": -38,
+        "showImageSmallHashSuffix": 8807043216537778,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10740196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740196
+    },
+    {
+        "cgDes": 3690880940,
+        "cgName": 26532025,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740111,
+        "showImageHashPre": -124,
+        "showImageHashSuffix": 4238055359422320,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 47284542579632946,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10740191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740191
+    },
+    {
+        "cgDes": 2033847372,
+        "cgName": 2823808,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740112,
+        "showImageHashPre": -6,
+        "showImageHashSuffix": 27308427979078173,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 4612404520991065,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10740192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740192
+    },
+    {
+        "cgDes": 1363989564,
+        "cgName": 7496715,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740113,
+        "showImageHashPre": -96,
+        "showImageHashSuffix": 51936164842422432,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 15356050289229531,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10740193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740193
+    },
+    {
+        "cgDes": 508556884,
+        "cgName": 19519291,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740114,
+        "showImageHashPre": -8,
+        "showImageHashSuffix": 23659285542892508,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 12645054083416002,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10740194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740194
+    },
+    {
+        "cgDes": 2462183996,
+        "cgName": 23884826,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740115,
+        "showImageHashPre": -50,
+        "showImageHashSuffix": 40903785078834868,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 54888555625914551,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10740195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740195
+    },
+    {
+        "cgDes": 505077412,
+        "cgName": 33236379,
+        "cgType": "CG_MALE",
+        "chapterId": 107401,
+        "id": 10740116,
+        "showImageHashPre": -42,
+        "showImageHashSuffix": 22769599831498573,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 59422572836238600,
+        "sortId": 6,
+        "unlockCond": [
+            {
+                "args": [
+                    10740196,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10740196
+    },
+    {
+        "cgDes": 2717923420,
+        "cgName": 1191366,
+        "cgType": "CG_FEMALE",
+        "chapterId": 108101,
+        "id": 10810101,
+        "showImageHashPre": -55,
+        "showImageHashSuffix": 25912468460180664,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 3763030846373653,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10810191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810191
+    },
+    {
+        "cgDes": 2823935412,
+        "cgName": 23240844,
+        "cgType": "CG_FEMALE",
+        "chapterId": 108101,
+        "id": 10810102,
+        "showImageHashPre": -104,
+        "showImageHashSuffix": 21210906826237566,
+        "showImageSmallHashPre": -30,
+        "showImageSmallHashSuffix": 52755441542798305,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10810192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810192
+    },
+    {
+        "cgDes": 1728621548,
+        "cgName": 28483760,
+        "cgType": "CG_FEMALE",
+        "chapterId": 108101,
+        "id": 10810103,
+        "showImageHashPre": -79,
+        "showImageHashSuffix": 22287401931406132,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 68743523128384548,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10810193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810193
+    },
+    {
+        "cgDes": 1027613868,
+        "cgName": 6628646,
+        "cgType": "CG_FEMALE",
+        "chapterId": 108101,
+        "id": 10810104,
+        "showImageHashPre": -121,
+        "showImageHashSuffix": 4823411440594705,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 71781911971790563,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10810194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810194
+    },
+    {
+        "cgDes": 2482380844,
+        "cgName": 568029,
+        "cgType": "CG_FEMALE",
+        "chapterId": 108101,
+        "id": 10810105,
+        "showImageHashPre": -46,
+        "showImageHashSuffix": 15601214207674370,
+        "showImageSmallHashPre": -22,
+        "showImageSmallHashSuffix": 52132399147016131,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10810195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810195
+    },
+    {
+        "cgDes": 2415858764,
+        "cgName": 15878186,
+        "cgType": "CG_MALE",
+        "chapterId": 108101,
+        "id": 10810106,
+        "showImageHashPre": -113,
+        "showImageHashSuffix": 21604790378652905,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 26335350713984055,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10810191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810191
+    },
+    {
+        "cgDes": 2239758668,
+        "cgName": 20428309,
+        "cgType": "CG_MALE",
+        "chapterId": 108101,
+        "id": 10810107,
+        "showImageHashPre": -61,
+        "showImageHashSuffix": 38459242711768352,
+        "showImageSmallHashPre": -102,
+        "showImageSmallHashSuffix": 56387604197902174,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10810192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810192
+    },
+    {
+        "cgDes": 4052628340,
+        "cgName": 3261673,
+        "cgType": "CG_MALE",
+        "chapterId": 108101,
+        "id": 10810108,
+        "showImageHashPre": -59,
+        "showImageHashSuffix": 38384108712112372,
+        "showImageSmallHashPre": -126,
+        "showImageSmallHashSuffix": 30973275641445084,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10810193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810193
+    },
+    {
+        "cgDes": 4150706820,
+        "cgName": 15023317,
+        "cgType": "CG_MALE",
+        "chapterId": 108101,
+        "id": 10810109,
+        "showImageHashPre": -112,
+        "showImageHashSuffix": 63428270056469457,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 31109040317966367,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10810194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810194
+    },
+    {
+        "cgDes": 87898780,
+        "cgName": 8107664,
+        "cgType": "CG_MALE",
+        "chapterId": 108101,
+        "id": 10810110,
+        "showImageHashPre": -114,
+        "showImageHashSuffix": 63911694853449861,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 21653211991598091,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10810195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10810195
+    },
+    {
+        "cgDes": 4218031100,
+        "cgName": 23345670,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101501,
+        "id": 10150101,
+        "showImageHashPre": -70,
+        "showImageHashSuffix": 7776826939453288,
+        "showImageSmallHashPre": -14,
+        "showImageSmallHashSuffix": 63650919407440165,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10150191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150191
+    },
+    {
+        "cgDes": 1925663044,
+        "cgName": 17103741,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101501,
+        "id": 10150102,
+        "showImageHashPre": -70,
+        "showImageHashSuffix": 59224424699282170,
+        "showImageSmallHashPre": -54,
+        "showImageSmallHashSuffix": 32494552849379713,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10150192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150192
+    },
+    {
+        "cgDes": 2029220300,
+        "cgName": 6243107,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101501,
+        "id": 10150103,
+        "showImageHashPre": -64,
+        "showImageHashSuffix": 1258441338359719,
+        "showImageSmallHashPre": -118,
+        "showImageSmallHashSuffix": 44578636771857302,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10150193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150193
+    },
+    {
+        "cgDes": 2051503684,
+        "cgName": 28619842,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101501,
+        "id": 10150104,
+        "showImageHashPre": -50,
+        "showImageHashSuffix": 17527824125314781,
+        "showImageSmallHashPre": -46,
+        "showImageSmallHashSuffix": 43784172466915777,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10150194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150194
+    },
+    {
+        "cgDes": 101297420,
+        "cgName": 32267178,
+        "cgType": "CG_FEMALE",
+        "chapterId": 101501,
+        "id": 10150105,
+        "showImageHashPre": -81,
+        "showImageHashSuffix": 19649634039909654,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 72028055473825538,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10150195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150195
+    },
+    {
+        "cgDes": 2089253420,
+        "cgName": 12574754,
+        "cgType": "CG_MALE",
+        "chapterId": 101501,
+        "id": 10150106,
+        "showImageHashPre": -68,
+        "showImageHashSuffix": 27075222870884113,
+        "showImageSmallHashPre": -6,
+        "showImageSmallHashSuffix": 52690375417455303,
+        "sortId": 1,
+        "unlockCond": [
+            {
+                "args": [
+                    10150191,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150191
+    },
+    {
+        "cgDes": 3712754100,
+        "cgName": 5869646,
+        "cgType": "CG_MALE",
+        "chapterId": 101501,
+        "id": 10150107,
+        "showImageHashPre": -53,
+        "showImageHashSuffix": 14650519921569690,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 41343679057090021,
+        "sortId": 2,
+        "unlockCond": [
+            {
+                "args": [
+                    10150192,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150192
+    },
+    {
+        "cgDes": 783884476,
+        "cgName": 13357004,
+        "cgType": "CG_MALE",
+        "chapterId": 101501,
+        "id": 10150108,
+        "showImageHashPre": -75,
+        "showImageHashSuffix": 5596222113415720,
+        "showImageSmallHashPre": -86,
+        "showImageSmallHashSuffix": 43552725826858547,
+        "sortId": 3,
+        "unlockCond": [
+            {
+                "args": [
+                    10150193,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150193
+    },
+    {
+        "cgDes": 2463835860,
+        "cgName": 10422586,
+        "cgType": "CG_MALE",
+        "chapterId": 101501,
+        "id": 10150109,
+        "showImageHashPre": -82,
+        "showImageHashSuffix": 44053108541372863,
+        "showImageSmallHashPre": -110,
+        "showImageSmallHashSuffix": 63884841743443246,
+        "sortId": 4,
+        "unlockCond": [
+            {
+                "args": [
+                    10150194,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150194
+    },
+    {
+        "cgDes": 3039737100,
+        "cgName": 3134539,
+        "cgType": "CG_MALE",
+        "chapterId": 101501,
+        "id": 10150110,
+        "showImageHashPre": -123,
+        "showImageHashSuffix": 52123312872968981,
+        "showImageSmallHashPre": -78,
+        "showImageSmallHashSuffix": 28276851802965620,
+        "sortId": 5,
+        "unlockCond": [
+            {
+                "args": [
+                    10150195,
+                    0
+                ],
+                "condType": "COOP_COND_COOP_POINT_FINISH"
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "unlockPointId": 10150195
+    }
+]

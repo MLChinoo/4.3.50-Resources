@@ -1,0 +1,60 @@
+[
+    {
+        "goodsId": 201013,
+        "singleLimit": 300
+    },
+    {},
+    {},
+    {
+        "goodsId": 301016,
+        "singleLimit": 300
+    },
+    {},
+    {},
+    {
+        "goodsId": 405015,
+        "singleLimit": 300
+    },
+    {},
+    {},
+    {
+        "goodsId": 102506,
+        "singleLimit": 100
+    },
+    {},
+    {},
+    {
+        "goodsId": 602001,
+        "singleLimit": 1
+    },
+    {},
+    {},
+    {
+        "goodsId": 602002,
+        "singleLimit": 1
+    },
+    {},
+    {},
+    {
+        "goodsId": 602003,
+        "singleLimit": 1
+    },
+    {},
+    {},
+    {
+        "goodsId": 602004,
+        "singleLimit": 1
+    },
+    {},
+    {},
+    {
+        "goodsId": 602005,
+        "singleLimit": 1
+    },
+    {},
+    {},
+    {
+        "goodsId": 602006,
+        "singleLimit": 1
+    }
+]

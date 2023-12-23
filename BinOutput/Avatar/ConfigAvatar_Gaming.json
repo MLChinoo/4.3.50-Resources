@@ -1,0 +1,109 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Gaming_ExtraAttack",
+			"abilityName": "Avatar_Gaming_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_LionHead",
+			"abilityName": "Avatar_Gaming_LionHead",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_LionPet",
+			"abilityName": "Avatar_Gaming_LionPet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_OutFit",
+			"abilityName": "Avatar_Gaming_OutFit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalArt",
+			"abilityName": "Avatar_Gaming_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalArt_Jump",
+			"abilityName": "Avatar_Gaming_ElementalArt_Jump",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_Cast",
+			"abilityName": "Avatar_Gaming_ElementalBurst_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_HasTarget",
+			"abilityName": "Avatar_Gaming_ElementalBurst_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_NoTarget",
+			"abilityName": "Avatar_Gaming_ElementalBurst_NoTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_Handler",
+			"abilityName": "Avatar_Gaming_ElementalBurst_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_HandlerD",
+			"abilityName": "Avatar_Gaming_ElementalBurst_HandlerD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_Bullet_01",
+			"abilityName": "Avatar_Gaming_ElementalBurst_Bullet_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalArti",
+			"abilityName": "Avatar_Gaming_ElementalArti",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_Bullet_02",
+			"abilityName": "Avatar_Gaming_ElementalBurst_Bullet_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalArtM",
+			"abilityName": "Avatar_Gaming_ElementalArtM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_ElementalBurst_Bullet_03",
+			"abilityName": "Avatar_Gaming_ElementalBurst_Bullet_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_PermanentSkill_2",
+			"abilityName": "Avatar_Gaming_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_PermanentSkill_3",
+			"abilityName": "Avatar_Gaming_PermanentSkill_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_NormalAttack_Damage_Handler",
+			"abilityName": "Avatar_Gaming_NormalAttack_Damage_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming_FallingAnthem",
+			"abilityName": "Avatar_Gaming_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Gaming",
+			"abilityName": "Avatar_Gaming",
+			"abilityOverride": ""
+		}
+	]
+}

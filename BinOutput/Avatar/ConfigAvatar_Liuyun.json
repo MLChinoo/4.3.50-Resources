@@ -1,0 +1,619 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Liuyun_ExtraAttack",
+			"abilityName": "Avatar_Liuyun_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ExtraAttack_BS_Check",
+			"abilityName": "Avatar_Liuyun_ExtraAttack_BS_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_AnimTail",
+			"abilityName": "Avatar_Liuyun_NormalAttack_AnimTail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Liuyun_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ExtraAttack_Bullet_FX",
+			"abilityName": "Avatar_Liuyun_ExtraAttack_Bullet_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Attack01",
+			"abilityName": "Avatar_Liuyun_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_Bullet_01",
+			"abilityName": "Avatar_Liuyun_NormalAttack_Bullet_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_01_Bullet_FX",
+			"abilityName": "Avatar_Liuyun_NormalAttack_01_Bullet_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_01_MoveTimer",
+			"abilityName": "Avatar_Liuyun_NormalAttack_01_MoveTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Attack02",
+			"abilityName": "Avatar_Liuyun_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_Bullet_02",
+			"abilityName": "Avatar_Liuyun_NormalAttack_Bullet_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_02_Bullet_FX",
+			"abilityName": "Avatar_Liuyun_NormalAttack_02_Bullet_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_02_MoveTimer",
+			"abilityName": "Avatar_Liuyun_NormalAttack_02_MoveTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Attack03",
+			"abilityName": "Avatar_Liuyun_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_Bullet_03",
+			"abilityName": "Avatar_Liuyun_NormalAttack_Bullet_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_03_Bullet_FX",
+			"abilityName": "Avatar_Liuyun_NormalAttack_03_Bullet_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Attack04",
+			"abilityName": "Avatar_Liuyun_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_Bullet_04",
+			"abilityName": "Avatar_Liuyun_NormalAttack_Bullet_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_NormalAttack_04_Bullet_FX",
+			"abilityName": "Avatar_Liuyun_NormalAttack_04_Bullet_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalArt",
+			"abilityName": "Avatar_Liuyun_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_AddMark",
+			"abilityName": "Avatar_Liuyun_Combo_AddMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ComboState_Handler",
+			"abilityName": "Avatar_Liuyun_ComboState_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_01",
+			"abilityName": "Avatar_Liuyun_Combo_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_02",
+			"abilityName": "Avatar_Liuyun_Combo_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_03",
+			"abilityName": "Avatar_Liuyun_Combo_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_RemoveMark",
+			"abilityName": "Avatar_Liuyun_Combo_RemoveMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_CycleHandler",
+			"abilityName": "Avatar_Liuyun_Combo_CycleHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_CraneBreakCycle",
+			"abilityName": "Avatar_Liuyun_Combo_CraneBreakCycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_Tail_Fx_On",
+			"abilityName": "Avatar_Liuyun_Combo_Tail_Fx_On",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_SwitchSkill",
+			"abilityName": "Avatar_Liuyun_Constellation_6_SwitchSkill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6",
+			"abilityName": "Avatar_Liuyun_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_RemoveMark_Delay",
+			"abilityName": "Avatar_Liuyun_Combo_RemoveMark_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_RocketJump_Ground_02",
+			"abilityName": "Avatar_Liuyun_RocketJump_Ground_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_RocketJump_Ground_03",
+			"abilityName": "Avatar_Liuyun_RocketJump_Ground_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_RocketJump_Fly_02",
+			"abilityName": "Avatar_Liuyun_RocketJump_Fly_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_RocketJump_Fly_03",
+			"abilityName": "Avatar_Liuyun_RocketJump_Fly_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_FlyBreakCycle",
+			"abilityName": "Avatar_Liuyun_Combo_FlyBreakCycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_Landed",
+			"abilityName": "Avatar_Liuyun_Combo_Landed",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_FallOnGround",
+			"abilityName": "Avatar_Liuyun_Combo_FallOnGround",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_SwitchSkill_Jump02",
+			"abilityName": "Avatar_Liuyun_Combo_SwitchSkill_Jump02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_SwitchSkill_Jump03",
+			"abilityName": "Avatar_Liuyun_Combo_SwitchSkill_Jump03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_Tail_Fx",
+			"abilityName": "Avatar_Liuyun_Combo_Tail_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_TickHeight",
+			"abilityName": "Avatar_Liuyun_Combo_TickHeight",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_SwitchSkill_Slot01_",
+			"abilityName": "Avatar_Liuyun_Combo_SwitchSkill_Slot01_",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_ChangeBreakCycle",
+			"abilityName": "Avatar_Liuyun_Combo_ChangeBreakCycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_Tail_Fx_Off",
+			"abilityName": "Avatar_Liuyun_Combo_Tail_Fx_Off",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_SwitchSkill_Slot01",
+			"abilityName": "Avatar_Liuyun_Combo_SwitchSkill_Slot01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_RemoveMarkM",
+			"abilityName": "Avatar_Liuyun_Combo_RemoveMarkM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Ground_ScreenEffect",
+			"abilityName": "Avatar_Liuyun_Ground_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Combo_LandedA",
+			"abilityName": "Avatar_Liuyun_Combo_LandedA",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Fly_ScreenEffect",
+			"abilityName": "Avatar_Liuyun_Fly_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalArt_CameraControl",
+			"abilityName": "Avatar_Liuyun_ElementalArt_CameraControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_01",
+			"abilityName": "Avatar_Liuyun_CameraControl_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_02_Ground333",
+			"abilityName": "Avatar_Liuyun_CameraControl_02_Ground333",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_02_Fly333",
+			"abilityName": "Avatar_Liuyun_CameraControl_02_Fly333",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_03_Ground",
+			"abilityName": "Avatar_Liuyun_CameraControl_03_Ground",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_03_Fly",
+			"abilityName": "Avatar_Liuyun_CameraControl_03_Fly",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_02_Ground",
+			"abilityName": "Avatar_Liuyun_CameraControl_02_Ground",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CameraControl_02_Fly",
+			"abilityName": "Avatar_Liuyun_CameraControl_02_Fly",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalArt_ExtraFallingAttack",
+			"abilityName": "Avatar_Liuyun_ElementalArt_ExtraFallingAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_BS",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_LoopFx",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_LoopFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_RushMove",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_RushMove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_PassThrough",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_PassThrough",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_TriggerAttack",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_TriggerAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_ImmuneFalling",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_ImmuneFalling",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_CameraControl_MinAngle",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_CameraControl_MinAngle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_CameraControl_MaxAngle",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_CameraControl_MaxAngle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_DropBall_Handler",
+			"abilityName": "Avatar_Liuyun_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_DropBall",
+			"abilityName": "Avatar_Liuyun_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_Blur",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_Blur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_SelectRushPos",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_SelectRushPos",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_AddVelocity",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_AddVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_RemoveVelocity",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_RemoveVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_PermanentSkill_1U",
+			"abilityName": "Avatar_Liuyun_PermanentSkill_1U",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneFallingAttack_RushPosFx",
+			"abilityName": "Avatar_Liuyun_CraneFallingAttack_RushPosFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementBurst",
+			"abilityName": "Avatar_Liuyun_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Camera_Fx",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Camera_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Camera_PushTarget333",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Camera_PushTarget333",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Camera_DungeonEffect",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Camera_DungeonEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Strike",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_Reconnect",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_Reconnect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementalBurst_SetCurAtk",
+			"abilityName": "Avatar_Liuyun_ElementalBurst_SetCurAtk",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementBurst_Drone",
+			"abilityName": "Avatar_Liuyun_ElementBurst_Drone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_JumpHandler",
+			"abilityName": "Avatar_Liuyun_Drone_JumpHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_LifeTimer",
+			"abilityName": "Avatar_Liuyun_Drone_LifeTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_TickHandler",
+			"abilityName": "Avatar_Liuyun_Drone_TickHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_HealHandler",
+			"abilityName": "Avatar_Liuyun_Drone_HealHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_ElementBurst_HealHandler",
+			"abilityName": "Avatar_Liuyun_ElementBurst_HealHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_JumpHandler_OnAvatar",
+			"abilityName": "Avatar_Liuyun_Drone_JumpHandler_OnAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_JumpHandler_OnAvatarR",
+			"abilityName": "Avatar_Liuyun_Drone_JumpHandler_OnAvatarR",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_JumpFx",
+			"abilityName": "Avatar_Liuyun_Drone_JumpFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Strike_OnAvatar",
+			"abilityName": "Avatar_Liuyun_Drone_Strike_OnAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Liuyun_Drone_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Strike_Delay",
+			"abilityName": "Avatar_Liuyun_Drone_Strike_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnGadget",
+			"abilityName": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnAvatarM",
+			"abilityName": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnAvatarM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnAvatar",
+			"abilityName": "Avatar_Liuyun_Drone_Strike_ReduceCount_OnAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Buff_Tick",
+			"abilityName": "Avatar_Liuyun_Drone_Buff_Tick",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Buff_OnAvatar",
+			"abilityName": "Avatar_Liuyun_Drone_Buff_OnAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_Buff_CDTimer",
+			"abilityName": "Avatar_Liuyun_Drone_Buff_CDTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_LifeTimerM",
+			"abilityName": "Avatar_Liuyun_Drone_LifeTimerM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Drone_HealHandlerM",
+			"abilityName": "Avatar_Liuyun_Drone_HealHandlerM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_FallingAnthem",
+			"abilityName": "Avatar_Liuyun_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_PermanentSkill_1",
+			"abilityName": "Avatar_Liuyun_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneAttack_HitCheck",
+			"abilityName": "Avatar_Liuyun_CraneAttack_HitCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_CraneAttack_AddHitMark",
+			"abilityName": "Avatar_Liuyun_CraneAttack_AddHitMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Crane_MonsterTail",
+			"abilityName": "Avatar_Liuyun_Crane_MonsterTail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_Buff",
+			"abilityName": "Avatar_Liuyun_Constellation_6_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_Handler",
+			"abilityName": "Avatar_Liuyun_Constellation_6_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_TickAlive",
+			"abilityName": "Avatar_Liuyun_Constellation_6_TickAlive",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_FreeCostInit",
+			"abilityName": "Avatar_Liuyun_Constellation_6_FreeCostInit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_AddJumpCount",
+			"abilityName": "Avatar_Liuyun_Constellation_6_AddJumpCount",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_Constellation_6_TickSwitch",
+			"abilityName": "Avatar_Liuyun_Constellation_6_TickSwitch",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun_PermanentSkill_3",
+			"abilityName": "Avatar_Liuyun_PermanentSkill_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Avatar_Liuyun_PermanentSkill_3_Handler",
+			"abilityName": "Avatar_Avatar_Liuyun_PermanentSkill_3_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Liuyun",
+			"abilityName": "Avatar_Liuyun",
+			"abilityOverride": ""
+		}
+	]
+}

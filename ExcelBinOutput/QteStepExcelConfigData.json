@@ -1,0 +1,36 @@
+[
+    {
+        "configPath": "QTEStep_Template_ClickChangeBar_202007",
+        "id": 1
+    },
+    {
+        "configPath": "QTEStep_Template_ClickChangeBar_202008",
+        "id": 2
+    },
+    {
+        "configPath": "QTEStep_TestCs_Button_Click",
+        "id": 3
+    },
+    {
+        "configPath": "QTEStep_TestCs_Button_MultiClick",
+        "id": 4
+    },
+    {
+        "configPath": "QTEStep_TestCs_Button_Direction",
+        "id": 5
+    },
+    {
+        "configPath": "QTEStep_Template_Button_Click",
+        "id": 6,
+        "nextStep": 7
+    },
+    {
+        "configPath": "QTEStep_Template_Button_Direction",
+        "id": 7,
+        "nextStep": 8
+    },
+    {
+        "configPath": "QTEStep_Template_Button_MultiClick",
+        "id": 8
+    }
+]

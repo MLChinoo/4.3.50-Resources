@@ -1,0 +1,12 @@
+[
+    {
+        "hearOtherRangeFactor": 1.0,
+        "id": 1
+    },
+    {
+        "feelRangeFactor": 0.30000001192092896,
+        "hearFootstepRangeFactor": 0.30000001192092896,
+        "hearOtherRangeFactor": 1.0,
+        "id": 2
+    }
+]

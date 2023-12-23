@@ -1,0 +1,50 @@
+[
+    {
+        "exportVersion": "1.5.0",
+        "iconPath": "UI_Achievement_Group1_PS5",
+        "id": 1,
+        "nameTextMapHash": 614609089
+    },
+    {
+        "exportVersion": "2.0.0",
+        "iconPath": "UI_Achievement_Group6_PS5",
+        "id": 2,
+        "nameTextMapHash": 1749498881
+    },
+    {
+        "exportVersion": "2.0.0",
+        "iconPath": "UI_Achievement_Group7_PS5",
+        "id": 3,
+        "nameTextMapHash": 3039108673
+    },
+    {
+        "exportVersion": "3.0.0",
+        "iconPath": "UI_Achievement_Group8_PS5",
+        "id": 4,
+        "nameTextMapHash": 1823689689
+    },
+    {
+        "exportVersion": "3.1.0",
+        "iconPath": "UI_Achievement_Group9_PS5",
+        "id": 5,
+        "nameTextMapHash": 993934745
+    },
+    {
+        "exportVersion": "3.6.0",
+        "iconPath": "UI_Achievement_Group10_PS5",
+        "id": 6,
+        "nameTextMapHash": 3062221633
+    },
+    {
+        "exportVersion": "4.0.0",
+        "iconPath": "UI_Achievement_Group11_PS5",
+        "id": 7,
+        "nameTextMapHash": 1841523545
+    },
+    {
+        "exportVersion": "4.2.0",
+        "iconPath": "UI_Achievement_Group12_PS5",
+        "id": 8,
+        "nameTextMapHash": 3484768129
+    }
+]
